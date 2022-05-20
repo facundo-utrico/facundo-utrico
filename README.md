@@ -7,7 +7,7 @@ Hi, I'm Facundo Utrico!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20tech&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://media1.giphy.com/media/KYPcgikci7x2g5doqZ/giphy.gif?cid=790b7611911af44fd68ed8a0b0569464679897da10163dfd&rid=giphy.gif&ct=g" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
