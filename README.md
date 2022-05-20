@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm Facundo Utrico!
-  <img src="https://media1.giphy.com/media/KYPcgikci7x2g5doqZ/giphy.gif?cid=790b7611911af44fd68ed8a0b0569464679897da10163dfd&rid=giphy.gif&ct=g" width="30"></h1>
+  <img src="https://c.tenor.com/6ZkJEn80W7kAAAAM/green-tick.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
