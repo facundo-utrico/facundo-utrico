@@ -18,7 +18,7 @@ I-am-facundo-utrico@github
 -------------------------
 💻 I am a self taught Full Stack Developer
 📝 I have a strong interest in Web Development and Artificial Intelligence
-🔭 Working as a freelancer on @Fiverr
+🔭 Working as a freelance on @Fiverr
 🌱 Currently learning MERN Stack
 🌟 Main languages: LUA, JavaScript, PHP
 🚩 Interested in Full Stack Web Development
