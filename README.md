@@ -19,7 +19,7 @@ https://fiverr.com/facundoutrico
 -------------------------
 @Fiverr Level two Seller
 +500 Satisfied Customers
-+270 Five Stars at @Fiverr
++295 Five Stars at @Fiverr
 ```
 <hr>
 
